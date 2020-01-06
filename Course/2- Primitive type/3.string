@@ -1,0 +1,53 @@
+Function is basically a reusable piece of code that carries out a task. 
+
+Ex:
+
+course = "python Programming"
+print(len(course))   # len function to get the length of a string,
+
+output = 18
+
+
+
+If you want to get access to  a specific charater in a string, we use the square bracket notation
+
+ex :
+
+course[0] # string are 0 index which means frist character  
+
+print(course[0])
+
+output --> p
+
+
+print(course[-1]) # Also use negative index, it takes us back to end of the string.
+
+output --> g
+
+print(course[0:3]) # p,y and t, so the index of these characters are 0,1 and 2, so that means the character at end index is not included.
+
+output --> pyt
+
+
+print(course[0:]) # It will print entire string.
+
+output ->  pyt
+
+print(course[:])  # it return a copy of the original string.
+
+output -> python Programming
+
+
+
+###########################
+
+course = "python Programming"
+print(len(course))
+print(course[0])
+print(course[:])
+print(course[0:-1])
+print(course[0:3])
+print(course[-1])
+
+#####################################
+
