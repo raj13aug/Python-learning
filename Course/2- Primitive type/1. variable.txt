@@ -1,0 +1,12 @@
+1. variables --> store the kind of data
+
+example:
+
+students_count = 1000
+print(students_count)
+
+Primitive types: can be number, booleans and strings
+
+ranting = 4.99 #floating point
+is_published = True # booleans value can either be true and false, booleans value always start capital letter.
+course_name = "python Programming"  #Test
