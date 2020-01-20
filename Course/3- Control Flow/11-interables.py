@@ -1,5 +1,5 @@
-type(print(5))
-type(print(range(5))
+print(type(5))
+print(type(range(5))
 
 # Range function return an object of range.
 
