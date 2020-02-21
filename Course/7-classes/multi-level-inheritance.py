@@ -11,4 +11,5 @@ class Bird(Animal):
 # chicken cannot fly,example of ihheritance abuse is around the concept
 # Multi level inheritance significally increase the complexity of your software.
 class Chicken(Bird):
+# pass empty statment
     pass
