@@ -26,3 +26,9 @@ ddl = DropDownList()
 
 textbox = TestBox()
 draw([ddl, textbox])
+
+# Poly Morphism
+
+# many  forms
+
+# In this example, our draw method is taking many different forms, and this is the determined at run time
