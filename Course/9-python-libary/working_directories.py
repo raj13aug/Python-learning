@@ -37,3 +37,6 @@ py_files = [p for p in paths.glob("*.py")]
 print(py_files)
 
 # rglob --> shot for recursive block
+
+py_files = [p for p in paths.rglob("*.py")]
+print(py_files)
