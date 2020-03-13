@@ -10,3 +10,5 @@ send_emails()
 end = time.time()
 duration = end - start
 print(duration)
+
+# calculate the time duration of execustion. 
