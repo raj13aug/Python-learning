@@ -1,3 +1,5 @@
+# Everything in python is an object and objects have function we call methods that access using the dot notation. 
+
 course = "Python Programming"
 # It doesn't affacted by orginital string.convert to upper letter
 print(course.upper())
