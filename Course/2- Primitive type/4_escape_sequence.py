@@ -7,6 +7,8 @@ Black slash in python string is a special character.
 # \"
 # \n
 
+# How to add the double quote middle of string?
+
 course = "Python \"programming"
 print(course)
  
