@@ -14,7 +14,7 @@
 # 0 is also falsey,
 # None
 
-x = input("x: ")        # Input value always coming from sting value, so we have to convert the integer value.
+x = input("x: ")        # Input value always coming from string value, so we have to convert the integer value.
 print(type(x))
 y = int(x) + 1
 print(f"x: {x}, y: {y}")
