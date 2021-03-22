@@ -1,3 +1,7 @@
+#If you don't need an existing object and that's when we use a class method.
+
+#Use factory method with these values and this way you can move the complexity of creating this object into a factory methods
+
 class Point:
     def __init__(self, x, y):
         self.x = x
