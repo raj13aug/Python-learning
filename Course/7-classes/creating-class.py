@@ -10,6 +10,8 @@
 # isinstance, sometimes we have an object,if this object is an intance of a given class
 #The isinstance() function checks if the object (first argument) is an instance or subclass of classinfo class (second argument).
 
+The isinstance() function returns True if the specified object is of the specified type, otherwise False.
+
 #The syntax of isinstance() is:
 #isinstance(object, classinfo)
 
